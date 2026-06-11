@@ -3,6 +3,7 @@
 A modern, high-performance web-based M3U / HLS live television player and playlist analyzer. Designed with a premium, sleek dark-themed interface, it allows users to import custom streams, audit connection health in real time, and enjoy smooth playback.
 
 Official Public Repository: [GitHub - SabbirMMS/livetv](https://github.com/SabbirMMS/livetv)
+> [Watch Live](https://sabbirmms.github.io/livetv)
 
 ---
 
